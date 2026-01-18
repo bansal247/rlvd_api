@@ -112,7 +112,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -153,3 +152,5 @@ cython_debug/
 dataset
 dataset.rar
 rlvd_api.rar
+config.bat
+node_modules
